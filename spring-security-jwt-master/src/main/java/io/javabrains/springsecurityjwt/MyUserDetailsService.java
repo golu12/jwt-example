@@ -1,4 +1,4 @@
-package io.javabrains.springsecurityjwt;
+package io.jwtjavalearning.springsecurityjwt;
 
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
