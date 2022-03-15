@@ -1,4 +1,4 @@
-package io.javabrains.springsecurityjwt;
+package io.jwtjavalearning.springsecurityjwt;
 
 import io.javabrains.springsecurityjwt.filters.JwtRequestFilter;
 import io.javabrains.springsecurityjwt.models.AuthenticationRequest;
