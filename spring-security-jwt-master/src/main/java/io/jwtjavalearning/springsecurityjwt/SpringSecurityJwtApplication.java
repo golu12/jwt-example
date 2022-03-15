@@ -1,9 +1,9 @@
 package io.jwtjavalearning.springsecurityjwt;
 
-import io.javabrains.springsecurityjwt.filters.JwtRequestFilter;
-import io.javabrains.springsecurityjwt.models.AuthenticationRequest;
-import io.javabrains.springsecurityjwt.models.AuthenticationResponse;
-import io.javabrains.springsecurityjwt.util.JwtUtil;
+import io.jwtjavalearning.springsecurityjwt.filters.JwtRequestFilter;
+import io.jwtjavalearning.springsecurityjwt.models.AuthenticationRequest;
+import io.jwtjavalearning.springsecurityjwt.models.AuthenticationResponse;
+import io.jwtjavalearning.springsecurityjwt.util.JwtUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
