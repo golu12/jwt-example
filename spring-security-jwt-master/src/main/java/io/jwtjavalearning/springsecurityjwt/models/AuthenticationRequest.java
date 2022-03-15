@@ -1,4 +1,4 @@
-package io.javabrains.springsecurityjwt.models;
+package io.jwtjavalearning.springsecurityjwt.models;
 
 import java.io.Serializable;
 
