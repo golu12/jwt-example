@@ -1,4 +1,4 @@
-package io.javabrains.springsecurityjwt.util;
+package io.jwtjavalearning.springsecurityjwt.util;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
