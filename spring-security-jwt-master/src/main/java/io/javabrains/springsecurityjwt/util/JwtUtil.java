@@ -81,7 +81,7 @@ public class JwtUtil {
     }
 
     /**
-     * Method used for checking whether the token is expired claims  by we supply token.
+     * Method used for validate whether the token is correct or not supply token and userdetails.
      * @param token
      * @return
      */
