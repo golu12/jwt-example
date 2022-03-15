@@ -1,4 +1,4 @@
-package io.javabrains.springsecurityjwt;
+package io.jwtjavalearning.springsecurityjwt;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
